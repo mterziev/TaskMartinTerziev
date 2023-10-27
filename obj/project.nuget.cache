@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1YZvHPFQDgZcmvZxVBR+j1qyR3KXqSbe2JI5AR+kXaK4wkRM6ssEAaC9G/kvNOItLpoTJ3L04nLtzXUeb5/Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\TaskMartinTerziev\\TaskMartinTerziev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
